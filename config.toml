@@ -1,8 +1,8 @@
-baseURL = "https://renanoliveira.github.io/"
+baseURL = "https://renanoliveira.net/"
 languageCode = "pt-BR"
 title = "Renan Oliveira - Big Data, Machine Learning e Data Science"
 theme = "hugo-lodi-theme"
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-18116657-2"
 
 [params]
     theme_color = "#574CDD"
@@ -22,9 +22,9 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "foto.png"
     subtitle = "Olá! Eu sou o Renan Oliveira, carioca e um cara apaixonado por dados."
-    hero_right = ["**Atualmente sou cofundador e mentor do Data Bootcamp e Especialista em Big Data na Globo.com.**", 
+    hero_right = ["**Sou cofundador e mentor do Data Bootcamp e Especialista em Big Data na Globo.com.**", 
     "No [Data Bootcamp](https://databootcamp.com.br/) sou mentor nas áreas de Data Science, Big Data e Machine Learning, atuando como instrutor e ajudando na criação das ementas e conteúdos passados aos alunos.",
-    "Na [Globo.com](https://globo.com/) sou um dos líderes da área de Big Data, atualmente trabalho na equipe de Experimentação responsável pela plataforma de testes a/b e por disseminar a cultura de dados pela empresa, estou na área de Big Data desde a sua criação na globo.com em 2012.",
+    "Na [Globo.com](https://globo.com/) sou um dos líderes da área de Big Data, atualmente trabalho na equipe Recomendação (RecSys). Nesse time criamos e usamos algoritmos que visam encontrar o conteúdo perfeito para o usuário, aumentando assim o seu engajamento nos produtos. Nos últimos anos também atuei no time de Experimentação, que é responsável pela plataforma de testes a/b, algoritmos de otimização de alternativas e por disseminar a cultura de dados pela empresa. Estou na área de Big Data desde a sua criação na globo.com em 2012.",
     "Meu foco de estudo atualmente é **Machine Learning** e **Inteligência Artificial**",
     "Programo principalmente em Scala, Python e JS, utilizando frameworks como: Apache Spark, scikit-learn, finagle e flask. Em produção utilizo docker/tsuru para APIs e hadoop (vanilla) para execução de jobs."]
     resume = "https://www.linkedin.com/in/renanmoreiradeoliveira/"
@@ -33,7 +33,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = false
 
 [params.case_studies]
-    enable = false
+    enable = true
     title = "Keynotes"
     subtitle = "principais apresentações"
 
